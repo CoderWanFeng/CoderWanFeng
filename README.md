@@ -1,3 +1,4 @@
+
 ## 我是程序员晚枫 🐟
 
 - 🐧 法学院毕业的Python程序员，定居重庆
@@ -10,4 +11,4 @@
 
 ## 今年汇总 ✨
 
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=CoderWanFeng&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=CoderWanFeng&hide_title=false&hide_border=false&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
