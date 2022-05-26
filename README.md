@@ -5,7 +5,7 @@
 - 👨‍💻 微信：[CoderWanFeng](http://www.python4office.cn/wechat-qrcode/)
 - 🏡 公众号：[程序员晚枫](http://t.cn/A6XKttBo)
 - 🌱 交流群：[技术&求职](http://www.python4office.cn/wechat-group/)
-- 😺 B站：[羞涩出镜，求三连](https://space.bilibili.com/1989702333)
+- 😺 B站：[第一次出镜，被骂惨了！！](https://space.bilibili.com/1989702333)
 
 
 
