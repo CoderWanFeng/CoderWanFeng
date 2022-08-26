@@ -7,7 +7,7 @@
 - 🌱 交流群：[技术&求职](http://www.python4office.cn/wechat-group/)
 - 😺 B站：[第一次出镜，被骂惨了！！](https://space.bilibili.com/1989702333)
 
-
+![CoderWanFeng](https://www.python-office.com/api/img-cdn/group/qr-code.jpg)
 
 ## 今年汇总 ✨
 
