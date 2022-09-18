@@ -8,7 +8,7 @@
 - 😺 B站：[第一次出镜，被骂惨了！！](https://space.bilibili.com/1989702333)
 - ⭐ 开源项目：[python-office.com](https://www.python-office.com/)
 
-![CoderWanFeng](https://www.python-office.com/api/img-cdn/group/qr-code.jpg)
+![](https://www.python-office.com/api/img-cdn/python-office/find_excel_data/group.jpg)
 
 ## 今年汇总 ✨
 
