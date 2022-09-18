@@ -6,6 +6,7 @@
 - 🏡 公众号：[程序员晚枫](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzk0MDM5NDg5MA==&action=getalbum&album_id=2527265404445179905&scene=173&from_msgid=2247488424&from_itemidx=1&count=3&nolastread=1#wechat_redirect)
 - 🌱 交流群：[技术&求职](http://www.python4office.cn/wechat-group/)
 - 😺 B站：[第一次出镜，被骂惨了！！](https://space.bilibili.com/1989702333)
+- ⭐ 开源项目：[python-office.com](https://www.python-office.com/)
 
 ![CoderWanFeng](https://www.python-office.com/api/img-cdn/group/qr-code.jpg)
 
