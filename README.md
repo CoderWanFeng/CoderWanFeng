@@ -1,13 +1,15 @@
 
-## 联系方式
+## 关于作者
 
-我是程序员晚枫，现在重庆，半个自媒体人。
+这里是程序员晚枫，在重庆。
 
 | 微信                   |     公众号         |交流群| B站|个人网站|线下活动|
 | ----------------------|------------------|-----|-----|-----|---|
-|📱[CoderWanFeng](https://mp.weixin.qq.com/s/dAm2B09i2ZaqCwhwP-AEdQ)|公众号：[程序员晚枫](https://mp.weixin.qq.com/s/tDQQUYWYJajJuXCgQPfg4w)|🌱[技术&求职](http://www.python4office.cn/wechat-group/)|[第一次出镜，被骂惨了！！](https://space.bilibili.com/1989702333)|⭐[python-office.com](https://www.python-office.com/)|[重庆线下](https://mp.weixin.qq.com/s/6n5YhO7WlPKNyKUeG2W_bQ)|
+|📱[CoderWanFeng](https://mp.weixin.qq.com/s/dAm2B09i2ZaqCwhwP-AEdQ)|[程序员晚枫](https://mp.weixin.qq.com/s/tDQQUYWYJajJuXCgQPfg4w)|🌱[技术&求职](http://www.python4office.cn/wechat-group/)|[一键三连](https://space.bilibili.com/1989702333)|⭐[python-office.com](https://www.python-office.com/)|[重庆线下](https://python-office-1300615378.cos.ap-chongqing.myqcloud.com/shalong.jpg)|
 
-![](https://www.python-office.com/api/img-cdn/python-office/find_excel_data/group.jpg)
+
+
+
 
 ## 开源项目 ✨
 
@@ -23,4 +25,12 @@
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/CoderWanFeng/count.svg" />
+</p>
+
+## 福利资源 💴
+
+<p align="center">
+    <a target="_blank" href='https://url.cn/Z4lzPLaF'>
+    <img src="https://website-python-1300615378.cos.ap-nanjing.myqcloud.com/ads%2F1040x100-tencent.jpg" width="100%"/>
+    </a>   
 </p>
