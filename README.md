@@ -10,7 +10,15 @@
 
 ![](https://www.python-office.com/api/img-cdn/python-office/find_excel_data/group.jpg)
 
-## 今年汇总 ✨
+## 开源项目 ✨
+
+现阶段主要更新的几个开源项目，如下所示：
+
+| 项目                   |     介绍         |GitHub地址| star|视频说明|
+| ----------------------|------------------|-----|-----|
+| python-office                   |   自动化办公   | https://github.com/CoderWanFeng/python-office |<img src="https://img.shields.io/github/stars/CoderWanFeng/PyOfficeRobot.svg" alt="github star"/>|[B站视频](https://www.bilibili.com/video/BV1pT4y1k7FH)|
+| PyOfficeRobot                   |     微信聊天机器人  | https://github.com/CoderWanFeng/PyOfficeRobot |<img src="https://img.shields.io/github/stars/CoderWanFeng/PyOfficeRobot.svg" alt="github star"/>|[B站视频](https://www.bilibili.com/video/BV1Xa411u7yU/?spm_id_from=333.999.0.0)|
+| search4file                   |     根据内容搜索文档    | https://github.com/CoderWanFeng/search4file |<img src="https://img.shields.io/github/stars/CoderWanFeng/search4file.svg" alt="github star"/>|[B站视频](https://www.bilibili.com/video/BV13P411n77G/?spm_id_from=333.999.0.0)|
 
 <p align="center"> 
   Visitor count<br>
