@@ -5,7 +5,7 @@
 
 | 微信                   |     公众号         |交流群| B站|个人网站|线下活动|
 | ----------------------|------------------|-----|-----|-----|---|
-|📱[CoderWanFeng](https://mp.weixin.qq.com/s/dAm2B09i2ZaqCwhwP-AEdQ)|[程序员晚枫](https://mp.weixin.qq.com/s/tDQQUYWYJajJuXCgQPfg4w)|🌱[技术&求职](http://www.python4office.cn/wechat-group/)|[一键三连](https://space.bilibili.com/1989702333)|⭐[python-office.com](https://www.python-office.com/)|[重庆线下](https://python-office-1300615378.cos.ap-chongqing.myqcloud.com/shalong.jpg)|
+|📱[CoderWanFeng](https://mp.weixin.qq.com/s/dAm2B09i2ZaqCwhwP-AEdQ)|[程序员晚枫](https://mp.weixin.qq.com/s/tDQQUYWYJajJuXCgQPfg4w)|🌱[技术&求职](http://www.python4office.cn/wechat-group/)|[真心话，太冒险](https://space.bilibili.com/1989702333)|⭐[python-office.com](https://www.python-office.com/)|[重庆线下](https://python-office-1300615378.cos.ap-chongqing.myqcloud.com/shalong.jpg)|
 
 
 
