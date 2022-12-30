@@ -27,10 +27,7 @@
 | search4file                   |     根据内容搜索文档    | https://github.com/CoderWanFeng/search4file |<img src="https://img.shields.io/github/stars/CoderWanFeng/search4file.svg" alt="github star"/>|[B站视频](https://www.bilibili.com/video/BV13P411n77G)|
 | python-office.com                   |     个人网站的源码    | https://github.com/CoderWanFeng/python-office.com |<img src="https://img.shields.io/github/stars/CoderWanFeng/python-office.com.svg" alt="github star"/>|[B站视频](https://www.bilibili.com/video/BV13P411n77G)|
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/CoderWanFeng/count.svg" />
-</p>
+
 
 ## 福利资源 💴
 
