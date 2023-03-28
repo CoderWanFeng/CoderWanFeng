@@ -56,7 +56,7 @@
 
 
 <p align="center" id='0基础数据分析-banner'>
-    <a target="_blank" href='https://et1.lagou.com/WR98RLRpsd374'>
+    <a target="_blank" href='http://gk.link/a/10EfJ'>
     <img src="https://website-python-1300615378.cos.ap-nanjing.myqcloud.com/ads%2Fpython%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90.jpg" width="100%"/>
     </a>   
 </p>
@@ -68,7 +68,7 @@
 </p>
 
 <p align="center" id='52讲爬虫-banner'>
-    <a target="_blank" href='https://et3.lagou.com/WR75RzRpsd27C'>
+    <a target="_blank" href='http://gk.link/a/11erO'>
     <img src="https://website-python-1300615378.cos.ap-nanjing.myqcloud.com/ads%2F52%E8%AE%B2%E7%88%AC%E8%99%AB.jpg" width="100%"/>
     </a>   
 </p>
