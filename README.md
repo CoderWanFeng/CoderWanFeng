@@ -28,10 +28,7 @@
 | python-office.com                   |     个人网站的源码    | https://github.com/CoderWanFeng/python-office.com |<img src="https://img.shields.io/github/stars/CoderWanFeng/python-office.com.svg" alt="github star"/>|[B站视频](https://www.bilibili.com/video/BV13P411n77G)|
 
 
-
-
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=CoderWanFeng&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderWanFeng&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
-
+## VLOG🎦
 
 <p align="center" id='vlog横-banner'>
     <a target="_blank" href='http://python4office.cn/vlog-all/vlog-all/'>
@@ -42,7 +39,11 @@
 ## 福利资源 💴
 
 
-
+<p align="center" id='AI绘画-banner'>
+    <a target="_blank" href='http://gk.link/a/1277m'>
+    <img src="https://ads-1300615378.cos.ap-guangzhou.myqcloud.com/geek/AI%E7%BB%98%E7%94%BB%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF%E4%B8%8E%E5%AE%9E%E6%88%98.png" width="100%"/>
+    </a>   
+</p>
 
 
 <p align="center" id='腾讯云-banner'>
