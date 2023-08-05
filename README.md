@@ -39,11 +39,7 @@
 ## 福利资源 💴
 
 
-<p align="center" id='AI绘画-banner'>
-    <a target="_blank" href='http://gk.link/a/1277m'>
-    <img src="https://ads-1300615378.cos.ap-guangzhou.myqcloud.com/geek/AI%E7%BB%98%E7%94%BB%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF%E4%B8%8E%E5%AE%9E%E6%88%98.png" width="100%"/>
-    </a>   
-</p>
+
 
 
 <p align="center" id='腾讯云-banner'>
