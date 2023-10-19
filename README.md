@@ -42,50 +42,15 @@
 
 
 
-<p align="center" id='腾讯云-banner'>
-    <a target="_blank" href='https://url.cn/Z4lzPLaF'>
-    <img src="https://website-python-1300615378.cos.ap-nanjing.myqcloud.com/ads%2F1040x100-tencent.jpg" width="100%"/>
-    </a>   
-</p>
-
-
-<p align="center" id='进群-banner'>
-    <a target="_blank" href='http://www.python4office.cn/wechat-group/'>
-    <img src="https://website-python-1300615378.cos.ap-nanjing.myqcloud.com/%E5%BC%95%E5%AF%BC%E8%B6%85%E9%93%BE%E6%8E%A5%2F%E6%8A%80%E6%9C%AF%E7%BE%A4.jpg" width="100%"/>
-    </a>   
-</p>
-
-
-
-
-<p align="center" id='0基础数据分析-banner'>
-    <a target="_blank" href='http://gk.link/a/10EfJ'>
-    <img src="https://website-python-1300615378.cos.ap-nanjing.myqcloud.com/ads%2Fpython%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90.jpg" width="100%"/>
-    </a>   
-</p>
-
-<p align="center" id='django网站-banner'>
-    <a target="_blank" href='http://gk.link/a/10Wl1'>
-    <img src="https://website-python-1300615378.cos.ap-nanjing.myqcloud.com/ads%2FPython%E7%BD%91%E7%AB%99%E5%BC%80%E5%8F%91.jpg" width="100%"/>
-    </a>   
-</p>
-
-<p align="center" id='52讲爬虫-banner'>
-    <a target="_blank" href='http://gk.link/a/11erO'>
-    <img src="https://website-python-1300615378.cos.ap-nanjing.myqcloud.com/ads%2F52%E8%AE%B2%E7%88%AC%E8%99%AB.jpg" width="100%"/>
-    </a>   
-</p>
-
-
 
 <p align="center" id='30讲自动化办公-banner'>
-    <a target="_blank" href='http://gk.link/a/10E3B'>
+    <a target="_blank" href='https://mp.weixin.qq.com/s/tKlzVee4kmJk4dGfKvVnFQ'>
     <img src="https://website-python-1300615378.cos.ap-nanjing.myqcloud.com/%E5%BC%95%E5%AF%BC%E8%B6%85%E9%93%BE%E6%8E%A5%2Fauto-work.jpg" width="100%"/>
     </a>   
 </p>
 
 <p align="center" id='100本电子书-banner'>
-    <a target="_blank" href='https://mp.weixin.qq.com/s/H3us6_7wg2QspGZfGtfDZw'>
+    <a target="_blank" href='https://mp.weixin.qq.com/s/_0kxKxUf4Syw5I1xlKmm8Q'>
     <img src="https://website-python-1300615378.cos.ap-nanjing.myqcloud.com/%E5%BC%95%E5%AF%BC%E8%B6%85%E9%93%BE%E6%8E%A5%2Febook.jpg" width="100%"/>
     </a>   
 </p>
@@ -97,8 +62,14 @@
 </p>
 
 <p align="center" id='11个软件-banner'>
-    <a target="_blank" href='https://mp.weixin.qq.com/s/uE1M8ESBQ3wJ_q-Cl1aNvg'>
+    <a target="_blank" href='https://mp.weixin.qq.com/s/w9ITodQR3kzSXc4t1H92nw'>
     <img src="https://website-python-1300615378.cos.ap-nanjing.myqcloud.com/%E5%BC%95%E5%AF%BC%E8%B6%85%E9%93%BE%E6%8E%A5%2Fsoft-11.jpg" width="100%"/>
+    </a>   
+</p>
+
+<p align="center" id='10讲机器人-banner'>
+    <a target="_blank" href='https://www.python-office.com/course-002/10-PyOfficeRobot/10-PyOfficeRobot.html'>
+    <img src="https://website-python-1300615378.cos.ap-nanjing.myqcloud.com/course/10%E8%AE%B2%E6%9C%BA%E5%99%A8%E4%BA%BA-%E6%A8%AA.jpg" width="100%"/>
     </a>   
 </p>
 
@@ -123,9 +94,5 @@
     </a>   
 </p>
 
-<p align="center" id='话费充值-banner'>
-    <a target="_blank" href='https://mp.weixin.qq.com/s/WIxNowXwVJu1Pugq16AQrA'>
-    <img src="https://website-python-1300615378.cos.ap-nanjing.myqcloud.com/ads%2Fphone-92.jpg" width="100%"/>
-    </a>   
-</p>
+
 
