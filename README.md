@@ -8,25 +8,20 @@
 
 这里是程序员晚枫，在重庆。
 
-| 微信                   |     公众号         |交流群| B站|个人网站|线下活动|
-| ----------------------|------------------|-----|-----|-----|---|
-|📱[CoderWanFeng](https://mp.weixin.qq.com/s/4Br2YXCinQEHseJwdtGAsQ)|[程序员晚枫](https://mp.weixin.qq.com/s/tDQQUYWYJajJuXCgQPfg4w)|🌱[技术&求职](http://www.python4office.cn/wechat-group/)|[真心话，太冒险](https://space.bilibili.com/1989702333)|⭐[python-office.com](https://www.python-office.com/)|[重庆线下](http://www.python4office.cn/wemedia-group/)|
-
-
-
-
+| 微信                                                           | 公众号                                                        | 交流群                                                  | B站                                             | 个人网站                                                 | 线下活动                                                |
+|--------------------------------------------------------------|------------------------------------------------------------|------------------------------------------------------|------------------------------------------------|------------------------------------------------------|-----------------------------------------------------|
+| 📱[CoderWanFeng](http://www.python4office.cn/wechat-qrcode/) | [川渝程序员](https://mp.weixin.qq.com/s/tDQQUYWYJajJuXCgQPfg4w) | 🌱[技术&求职](http://www.python4office.cn/wechat-group/) | [程序员晚枫](https://space.bilibili.com/1989702333) | ⭐[python-office.com](https://www.python-office.com/) | [技术交流会](http://www.python4office.cn/wemedia-group/) |
 
 ## 开源项目 ✨
 
 现阶段主要更新的几个开源项目，如下所示：
 
-| 项目                   |     介绍         |GitHub地址| star|视频说明|
-| ----------------------|------------------|-----|-----|-----|
-| python-office                   |   自动化办公   | https://github.com/CoderWanFeng/python-office |<img src="https://img.shields.io/github/stars/CoderWanFeng/python-office.svg" alt="github star"/> <img src='https://gitee.com/CoderWanFeng/python-office/badge/star.svg?theme=dark' alt='gitee star'/>|[B站视频](https://www.bilibili.com/video/BV1pT4y1k7FH)|
-| PyOfficeRobot                   |     微信聊天机器人  | https://github.com/CoderWanFeng/PyOfficeRobot |<img src="https://img.shields.io/github/stars/CoderWanFeng/PyOfficeRobot.svg" alt="github star"/> <img src='https://gitee.com/CoderWanFeng/PyOfficeRobot/badge/star.svg?theme=dark' alt='gitee star'/>|[B站视频](https://www.bilibili.com/video/BV1Xa411u7yU)|
-| search4file                   |     根据内容搜索文档    | https://github.com/CoderWanFeng/search4file |<img src="https://img.shields.io/github/stars/CoderWanFeng/search4file.svg" alt="github star"/>|[B站视频](https://www.bilibili.com/video/BV13P411n77G)|
-| python-office.com                   |     个人网站的源码    | https://github.com/CoderWanFeng/python-office.com |<img src="https://img.shields.io/github/stars/CoderWanFeng/python-office.com.svg" alt="github star"/>|[B站视频](https://www.bilibili.com/video/BV13P411n77G)|
-
+| 项目                | 介绍       | GitHub地址                                          | star                                                                                                                                                                                                   | 视频说明                                                |
+|-------------------|----------|---------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|
+| python-office     | 自动化办公    | https://github.com/CoderWanFeng/python-office     | <img src="https://img.shields.io/github/stars/CoderWanFeng/python-office.svg" alt="github star"/> <img src='https://gitee.com/CoderWanFeng/python-office/badge/star.svg?theme=dark' alt='gitee star'/> | [B站视频](https://www.bilibili.com/video/BV1pT4y1k7FH) |
+| PyOfficeRobot     | 微信聊天机器人  | https://github.com/CoderWanFeng/PyOfficeRobot     | <img src="https://img.shields.io/github/stars/CoderWanFeng/PyOfficeRobot.svg" alt="github star"/> <img src='https://gitee.com/CoderWanFeng/PyOfficeRobot/badge/star.svg?theme=dark' alt='gitee star'/> | [B站视频](https://www.bilibili.com/video/BV1Xa411u7yU) |
+| search4file       | 根据内容搜索文档 | https://github.com/CoderWanFeng/search4file       | <img src="https://img.shields.io/github/stars/CoderWanFeng/search4file.svg" alt="github star"/>                                                                                                        | [B站视频](https://www.bilibili.com/video/BV13P411n77G) |
+| python-office.com | 个人网站的源码  | https://github.com/CoderWanFeng/python-office.com | <img src="https://img.shields.io/github/stars/CoderWanFeng/python-office.com.svg" alt="github star"/>                                                                                                  | [B站视频](https://www.bilibili.com/video/BV13P411n77G) |
 
 ## VLOG🎦
 
@@ -37,11 +32,6 @@
 </p>
 
 ## 福利资源 💴
-
-
-
-
-
 
 <p align="center" id='30讲自动化办公-banner'>
     <a target="_blank" href='https://mp.weixin.qq.com/s/tKlzVee4kmJk4dGfKvVnFQ'>
