@@ -16,11 +16,12 @@
 
 现阶段主要更新的几个开源项目，如下所示：
 
-| 项目                | 介绍       | GitHub地址                                          | star                                                                                                                                                                                                   | 视频说明                                               |
-|-------------------|----------|---------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|
-| python-office     | 自动化办公    | https://github.com/CoderWanFeng/python-office     | <img src="https://img.shields.io/github/stars/CoderWanFeng/python-office.svg" alt="github star"/> <img src='https://gitee.com/CoderWanFeng/python-office/badge/star.svg?theme=dark' alt='gitee star'/> | [B站视频](https://www.bilibili.com/read/cv27366395) |
-| PyOfficeRobot     | 微信聊天机器人  | https://github.com/CoderWanFeng/PyOfficeRobot     | <img src="https://img.shields.io/github/stars/CoderWanFeng/PyOfficeRobot.svg" alt="github star"/> <img src='https://gitee.com/CoderWanFeng/PyOfficeRobot/badge/star.svg?theme=dark' alt='gitee star'/> | [B站视频](https://www.bilibili.com/video/BV1S84y1m7xd) |
-| python-office.com | 个人网站的源码  | https://github.com/CoderWanFeng/python-office.com | <img src="https://img.shields.io/github/stars/CoderWanFeng/python-office.com.svg" alt="github star"/>                                                                                                  |  |
+| 项目                | 介绍      | GitHub地址                                          | star                                                                                                                                                                                                   | 视频说明                                           |
+|-------------------|---------|---------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------|
+| python-office     | 自动化办公   | https://github.com/CoderWanFeng/python-office     | <img src="https://img.shields.io/github/stars/CoderWanFeng/python-office.svg" alt="github star"/> <img src='https://gitee.com/CoderWanFeng/python-office/badge/star.svg?theme=dark' alt='gitee star'/> | [B站视频](https://www.bilibili.com/read/cv27366395) |
+| PyOfficeRobot     | 微信聊天机器人 | https://github.com/CoderWanFeng/PyOfficeRobot     | <img src="https://img.shields.io/github/stars/CoderWanFeng/PyOfficeRobot.svg" alt="github star"/> <img src='https://gitee.com/CoderWanFeng/PyOfficeRobot/badge/star.svg?theme=dark' alt='gitee star'/> | [B站视频](https://www.bilibili.com/video/BV1S84y1m7xd) |
+| poocr             | 发票批量识别  | https://github.com/CoderWanFeng/poocr             | <img src="https://img.shields.io/github/stars/CoderWanFeng/poocr.svg" alt="github star"/> <img src='https://gitee.com/CoderWanFeng/poocr/badge/star.svg?theme=dark' alt='gitee star'/> | [B站视频](https://www.bilibili.com/video/BV13J4m1s7L7) |
+| python-office.com | 个人网站的源码 | https://github.com/CoderWanFeng/python-office.com | <img src="https://img.shields.io/github/stars/CoderWanFeng/python-office.com.svg" alt="github star"/>                                                                                                  |                                                |
 
 ## VLOG🎦
 
@@ -33,7 +34,7 @@
 ## 福利资源 💴
 
 <p align="center" id='30讲自动化办公-banner'>
-    <a target="_blank" href='https://mp.weixin.qq.com/s/tKlzVee4kmJk4dGfKvVnFQ'>
+    <a target="_blank" href='https://www.python-office.com/course/50-python-office.html'>
     <img src="https://website-python-1300615378.cos.ap-nanjing.myqcloud.com/%E5%BC%95%E5%AF%BC%E8%B6%85%E9%93%BE%E6%8E%A5%2Fauto-work.jpg" width="100%"/>
     </a>   
 </p>
@@ -80,6 +81,13 @@
 <p align="center" id='外卖-banner'>
     <a target="_blank" href='https://mp.weixin.qq.com/s/KfjQBf1n_slziZxeOQnhzQ'>
     <img src="https://website-python-1300615378.cos.ap-nanjing.myqcloud.com/ads%2F%E8%81%94%E7%9B%9F%E5%B9%BF%E5%91%8A%2F%E5%A4%96%E5%8D%96-1040-100.jpg" width="100%"/>
+    </a>   
+</p>
+
+
+<p align="center" id='5讲OCR-banner'>
+    <a target="_blank" href='https://www.python-office.com/course-002/5-poocr/5-poocr.html'>
+    <img src="https://course-1300615378.cos.ap-guangzhou.myqcloud.com/poocr%2F%E5%B0%81%E9%9D%A2-%E6%A8%AA.jpg" width="100%"/>
     </a>   
 </p>
 
