@@ -16,14 +16,34 @@
 
 现阶段主要更新的几个开源项目，如下所示：
 
-| 项目                | 介绍      | GitHub地址                                          | star                                                                                                                                                                                                   | 视频教程                                                                                    |
-|-------------------|---------|---------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
-| python-office     | 自动化办公   | https://github.com/CoderWanFeng/python-office     | <img src="https://img.shields.io/github/stars/CoderWanFeng/python-office.svg" alt="github star"/> <img src='https://gitee.com/CoderWanFeng/python-office/badge/star.svg?theme=dark' alt='gitee star'/> | [点我直达](https://www.python-office.com/course/50-python-office.html)                      |
+| 项目                | 介绍      | GitHub地址                                          | star                                                                                                                                                                                                   | 视频教程                                                                                  |
+|-------------------|---------|---------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
+| python-office     | 自动化办公   | https://github.com/CoderWanFeng/python-office     | <img src="https://img.shields.io/github/stars/CoderWanFeng/python-office.svg" alt="github star"/> <img src='https://gitee.com/CoderWanFeng/python-office/badge/star.svg?theme=dark' alt='gitee star'/> | [点我直达](https://www.python-office.com/course/50-python-office.html)                    |
 | PyOfficeRobot     | 微信聊天机器人 | https://github.com/CoderWanFeng/PyOfficeRobot     | <img src="https://img.shields.io/github/stars/CoderWanFeng/PyOfficeRobot.svg" alt="github star"/> <img src='https://gitee.com/CoderWanFeng/PyOfficeRobot/badge/star.svg?theme=dark' alt='gitee star'/> | [点我直达](https://www.python-office.com/course-002/10-PyOfficeRobot/10-PyOfficeRobot.html) |
-| poocr             | 发票批量识别  | https://github.com/CoderWanFeng/poocr             | <img src="https://img.shields.io/github/stars/CoderWanFeng/poocr.svg" alt="github star"/> <img src='https://gitee.com/CoderWanFeng/poocr/badge/star.svg?theme=dark' alt='gitee star'/>                 | [点我直达](https://www.python-office.com/course-002/5-poocr/5-poocr.html)                   |
-| python-office.com | 个人网站的源码 | https://github.com/CoderWanFeng/python-office.com | <img src="https://img.shields.io/github/stars/CoderWanFeng/python-office.com.svg" alt="github star"/>                                                                                                  |                                                                                         |
+| poocr             | 发票批量识别  | https://github.com/CoderWanFeng/poocr             | <img src="https://img.shields.io/github/stars/CoderWanFeng/poocr.svg" alt="github star"/> <img src='https://gitee.com/CoderWanFeng/poocr/badge/star.svg?theme=dark' alt='gitee star'/>                 | [点我直达](https://www.python-office.com/course-002/5-poocr/5-poocr.html)                 |
+| popdf             | 处理pdf   | https://github.com/CoderWanFeng/popdf             | <img src="https://img.shields.io/github/stars/CoderWanFeng/popdf.svg" alt="github star"/> <img src='https://gitee.com/CoderWanFeng/popdf/badge/star.svg?theme=dark' alt='gitee star'/>                 | [点我直达](https://mp.weixin.qq.com/s/Z2OtM4FjoRaDDsDk3GIJwg)                   |
+| python-office.com | 个人网站的源码 | https://github.com/CoderWanFeng/python-office.com | <img src="https://img.shields.io/github/stars/CoderWanFeng/python-office.com.svg" alt="github star"/>                                                                                                  |                                                                                       |
 
-## VLOG🎦
+## 视频介绍🎦
+
+
+<p align="center" id='pycon-2024-banner'>
+    <a target="_blank" href='https://www.bilibili.com/video/BV1Y6qWYWEyQ/'>
+    <img src="https://python-office-1300615378.cos.ap-chongqing.myqcloud.com/community/pycon/2024/pycon2024.jpg" width="100%"/>
+    </a>   
+</p>
+
+<p align="center" id='CodeMaster-banner'>
+    <a target="_blank" href='https://mp.weixin.qq.com/s/3KvzA0ZOKJCz11Sk-karOw'>
+    <img src="https://python-office-1300615378.cos.ap-chongqing.myqcloud.com/community%2Fgitcode%2FCodeMaster-3.jpg" width="100%"/>
+    </a>   
+</p>
+
+<p align="center" id='b-py-auto-2024-banner'>
+    <a target="_blank" href='https://space.bilibili.com/259649365'>
+    <img src="https://python-office-1300615378.cos.ap-chongqing.myqcloud.com/community/gitcode/B-py-auto.jpg" width="100%"/>
+    </a>   
+</p>
 
 <p align="center" id='vlog横-banner'>
     <a target="_blank" href='http://python4office.cn/vlog-all/vlog-all/'>
