@@ -1,6 +1,6 @@
-<p align="center">
-    <a target="_blank" href='http://www.python4office.cn/wechat-group/'>
-    <img src="https://website-python-1300615378.cos.ap-nanjing.myqcloud.com/%E5%BC%95%E5%AF%BC%E8%B6%85%E9%93%BE%E6%8E%A5%2F%E6%8A%80%E6%9C%AF%E7%BE%A4.jpg" width="100%"/>
+<p align="center" id='进群-banner-AI'>
+    <a target="_blank" href='https://mp.weixin.qq.com/s/h0MExYJag6hLnQg26yx98w'>
+    <img src="https://raw.gitcode.com/user-images/assets/5027920/87fc1ca4-1a6c-47b8-b234-3e323a1aa827/aiq.jpg" width="100%"/>
     </a>   
 </p>
 
@@ -10,7 +10,7 @@
 
 | 微信                                                           | 交流群                                                  | B站                                             | 个人网站                                                 | 
 |--------------------------------------------------------------|------------------------------------------------------|------------------------------------------------|------------------------------------------------------|
-| 📱[CoderWanFeng](http://www.python4office.cn/wechat-qrcode/) | 🌱[技术&求职](http://www.python4office.cn/wechat-group/) | [程序员晚枫](https://space.bilibili.com/1989702333) | ⭐[python-office.com](https://www.python-office.com/) | 
+| 📱[python-office](http://www.python4office.cn/wechat-qrcode/) | 🌱[技术&求职](http://www.python4office.cn/wechat-group/) | [程序员晚枫](https://space.bilibili.com/1989702333) | ⭐[python-office.com](https://www.python-office.com/) | 
 
 ## 开源项目 ✨
 
@@ -24,34 +24,18 @@
 | popdf             | 处理pdf   | https://github.com/CoderWanFeng/popdf             | <img src="https://img.shields.io/github/stars/CoderWanFeng/popdf.svg" alt="github star"/> <img src='https://gitee.com/CoderWanFeng/popdf/badge/star.svg?theme=dark' alt='gitee star'/>                 | [点我直达](https://mp.weixin.qq.com/s/Z2OtM4FjoRaDDsDk3GIJwg)                   |
 | python-office.com | 个人网站的源码 | https://github.com/CoderWanFeng/python-office.com | <img src="https://img.shields.io/github/stars/CoderWanFeng/python-office.com.svg" alt="github star"/>                                                                                                  |                                                                                       |
 
-## 视频介绍🎦
+## 视频账号🎦
 
-
-<p align="center" id='pycon-2024-banner'>
-    <a target="_blank" href='https://www.bilibili.com/video/BV1Y6qWYWEyQ/'>
-    <img src="https://python-office-1300615378.cos.ap-chongqing.myqcloud.com/community/pycon/2024/pycon2024.jpg" width="100%"/>
+<p align="center" id='B站-banner'>
+    <a target="_blank" href='http://python4office.cn/wechat-qrcode/'>
+    <img src="https://raw.gitcode.com/CoderWanFeng1/website/raw/main/B-py-auto.jpg" width="100%"/>
     </a>   
 </p>
 
-<p align="center" id='CodeMaster-banner'>
-    <a target="_blank" href='https://mp.weixin.qq.com/s/3KvzA0ZOKJCz11Sk-karOw'>
-    <img src="https://python-office-1300615378.cos.ap-chongqing.myqcloud.com/community%2Fgitcode%2FCodeMaster-3.jpg" width="100%"/>
-    </a>   
-</p>
 
-<p align="center" id='b-py-auto-2024-banner'>
-    <a target="_blank" href='https://space.bilibili.com/259649365'>
-    <img src="https://python-office-1300615378.cos.ap-chongqing.myqcloud.com/community/gitcode/B-py-auto.jpg" width="100%"/>
-    </a>   
-</p>
+## AI&Python课程 💴
 
-<p align="center" id='vlog横-banner'>
-    <a target="_blank" href='http://python4office.cn/vlog-all/vlog-all/'>
-    <img src="https://vlog-1300615378.cos.ap-chongqing.myqcloud.com/ads%2Fheng.jpg" width="100%"/>
-    </a>   
-</p>
-
-## 福利资源 💴
+![扫码查看AI编程训练营](https://raw.gitcode.com/user-images/assets/5027920/7429d22d-2e89-4333-8305-e0352ae7a344/极简AI编程__3_.jpg '极简AI编程 (3).jpg')
 
 <p align="center" id='30讲自动化办公-banner'>
     <a target="_blank" href='https://www.python-office.com/course/50-python-office.html'>
@@ -59,57 +43,6 @@
     </a>   
 </p>
 
-<p align="center" id='100本电子书-banner'>
-    <a target="_blank" href='https://mp.weixin.qq.com/s/_0kxKxUf4Syw5I1xlKmm8Q'>
-    <img src="https://website-python-1300615378.cos.ap-nanjing.myqcloud.com/%E5%BC%95%E5%AF%BC%E8%B6%85%E9%93%BE%E6%8E%A5%2Febook.jpg" width="100%"/>
-    </a>   
-</p>
-
-<p align="center" id='实战项目-banner'>
-    <a target="_blank" href='http://www.python4office.cn/python-project-list/'>
-    <img src="https://website-python-1300615378.cos.ap-nanjing.myqcloud.com/%E5%BC%95%E5%AF%BC%E8%B6%85%E9%93%BE%E6%8E%A5%2Fproject.jpg" width="100%"/>
-    </a>   
-</p>
-
-<p align="center" id='11个软件-banner'>
-    <a target="_blank" href='https://mp.weixin.qq.com/s/w9ITodQR3kzSXc4t1H92nw'>
-    <img src="https://website-python-1300615378.cos.ap-nanjing.myqcloud.com/%E5%BC%95%E5%AF%BC%E8%B6%85%E9%93%BE%E6%8E%A5%2Fsoft-11.jpg" width="100%"/>
-    </a>   
-</p>
-
-<p align="center" id='10讲机器人-banner'>
-    <a target="_blank" href='https://www.python-office.com/course-002/10-PyOfficeRobot/10-PyOfficeRobot.html'>
-    <img src="https://website-python-1300615378.cos.ap-nanjing.myqcloud.com/course/10%E8%AE%B2%E6%9C%BA%E5%99%A8%E4%BA%BA-%E6%A8%AA.jpg" width="100%"/>
-    </a>   
-</p>
-
-
-<p align="center" id='25个学习资源-banner'>
-    <a target="_blank" href='https://mp.weixin.qq.com/s/_01V8I7rVkgvIIo7ygwwQA'>
-    <img src="https://website-python-1300615378.cos.ap-nanjing.myqcloud.com/%E5%BC%95%E5%AF%BC%E8%B6%85%E9%93%BE%E6%8E%A5%2Fpy-25-source.jpg" width="100%"/>
-    </a>   
-</p>
-
-
-<p align="center" id='支付宝-banner'>
-    <a target="_blank" href='https://mp.weixin.qq.com/s/UsFs6ooDspyhhKMleKTVpw'>
-    <img src="https://website-python-1300615378.cos.ap-nanjing.myqcloud.com/ads%2F%E8%81%94%E7%9B%9F%E5%B9%BF%E5%91%8A%2Falipay.jpg" width="100%"/>
-    </a>   
-</p>
-
-
-<p align="center" id='外卖-banner'>
-    <a target="_blank" href='https://mp.weixin.qq.com/s/KfjQBf1n_slziZxeOQnhzQ'>
-    <img src="https://website-python-1300615378.cos.ap-nanjing.myqcloud.com/ads%2F%E8%81%94%E7%9B%9F%E5%B9%BF%E5%91%8A%2F%E5%A4%96%E5%8D%96-1040-100.jpg" width="100%"/>
-    </a>   
-</p>
-
-
-<p align="center" id='5讲OCR-banner'>
-    <a target="_blank" href='https://www.python-office.com/course-002/5-poocr/5-poocr.html'>
-    <img src="https://course-1300615378.cos.ap-guangzhou.myqcloud.com/poocr%2F%E5%B0%81%E9%9D%A2-%E6%A8%AA.jpg" width="100%"/>
-    </a>   
-</p>
 
 
 
